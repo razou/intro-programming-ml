@@ -1,6 +1,4 @@
 # intro-programming-ml
-## Introduction to computation and programming general concepts using Python 3 with machine learning applications
-
 
 This repo is based on the book by J. Guttag (title and table of content below). 
 It covers some computer science concepts with python applications as well as general machine learning topics. 
